@@ -1,0 +1,5 @@
+All you do is following:
+` + 1 to go into camera mode
+z - Render Mode
+
+That`s it, you can now create a material
